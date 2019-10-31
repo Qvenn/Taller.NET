@@ -1,0 +1,6 @@
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio4\obj\Debug\Ejercicio4.pdb

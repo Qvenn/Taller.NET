@@ -1,0 +1,5 @@
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\eeeee\OneDrive\Documentos\SharpDevelop Projects\Taller\Ejercicio8\obj\Debug\Ejercicio8.pdb
